@@ -1,3 +1,4 @@
+
 # Pizza-Sales-Dashboard
 The Pizza Sales Performance Dashboard is an interactive Power BI report designed to analyze pizza sales data from January to December 2015. It provides clear visual insights into key metrics such as revenue, order volume, top-performing pizzas, and sales trends by category and size. This dashboard helps business users and managers identify high-performing products, peak sales periods, and customer preferences to support better decision-making.
 
@@ -25,3 +26,4 @@ Clean and business-ready layout for stakeholders
 6.Screenshot
 Dashboard Preview - 
 ![pizza sales](https://github.com/ssrivars/Pizza-Sales-Dashboard/blob/main/pizza%20sales.png)
+![pizza sales 2nd ](https://github.com/user-attachments/assets/44fbeacb-65ec-438d-bdf6-4a7290037a65)
